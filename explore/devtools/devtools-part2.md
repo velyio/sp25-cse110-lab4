@@ -1,0 +1,2 @@
+1. num1 and num2 were defined as strings, so adding them concatenated their strings instead of adding the numbers into result.
+2. by changing the parameters "num1" and "num2" to num1 and num2 so that they are not defined as strings. Screenshot in expand/screenshots
